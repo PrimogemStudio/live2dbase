@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "id": "mmdbase",
+  "version": "0.0.1",
+  "name": "Live 2D base",
+  "description": "An independent module from Advanced-Framework mod, be used to praise and load Live 2D models",
+  "authors": [
+    "Jack253-png",
+    "hackermdch"
+  ],
+  "contact": {
+    "repo": "https://github.com/Primogem-Craft-Development/live2dbase",
+    "sources": "https://github.com/Primogem-Craft-Development/live2dbase",
+    "issues": "https://github.com/Primogem-Craft-Development/live2dbase/issues"
+  },
+  "license": "GPLv3",
+  "icon": "assets/live2dbase/icon.png",
+  "custom": {
+    "modmenu": {
+      "badges": [ "library" ],
+      "parent": "advancedfmk"
+    }
+  }
+}
